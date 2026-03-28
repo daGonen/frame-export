@@ -1,9 +1,13 @@
 # Frame Export
 
 **A lightweight Windows GUI for exporting video frames to image sequences.**  
-No timeline scrubbing, no bloated software — just drop a video, pick your options, export.
+No timeline scrubbing, no bloated software - just drop a video, pick your options, export.
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue) ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey) ![License](https://img.shields.io/badge/license-MIT-green) ![Version](https://img.shields.io/badge/version-1.0.0-purple)
+
+---
+
+![Frame Export UI](frame-export-gui.png)
 
 ---
 
@@ -13,7 +17,7 @@ No timeline scrubbing, no bloated software — just drop a video, pick your opti
 - Output formats: **PNG, JPG, TIF, BMP, WebP**
 - Configurable filename **prefix**, **zero-padding**, and **JPEG quality**
 - Auto-probes video for frame count, FPS, and duration
-- Clean dark UI — no console window
+- Clean dark UI - no console window
 
 ---
 
@@ -38,7 +42,7 @@ git clone https://github.com/daGonen/frame-export.git
 cd frame-export
 ```
 
-No pip installs needed — uses Python standard library only.
+No pip installs needed - uses Python standard library only.
 
 ---
 
@@ -81,7 +85,7 @@ Right-click → Create Shortcut → pin to taskbar or Desktop for quick access.
 
 ## License
 
-MIT — do whatever you want with it.
+MIT - do whatever you want with it.
 
 ---
 
